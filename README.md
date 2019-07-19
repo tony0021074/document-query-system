@@ -1,6 +1,6 @@
-# Document Query Application
+# Document Query Application (School individual assignment
 
-Querying with boolean model. Support query multiple terms and query
+Querying with boolean model. Support querying multiple query terms and phases
 
 Prerequisites:
 Windows
@@ -32,5 +32,6 @@ click [Clear Query] button
 [File]->[Close]
 click right top corner to close the winodw
 
-Author
-Tony Yeung
+Unsolved error:
+Leading spaces of the term return wrong query result
+e.g. "   computer"

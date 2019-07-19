@@ -1,4 +1,6 @@
-Document Query Application
+# Document Query Application
+
+Querying with boolean model. Support query multiple terms and query
 
 Prerequisites:
 Windows
@@ -17,6 +19,7 @@ double click table's item
 
 4.Query
 input the text field
+e.g. "how are you" OR "plane" AND "bed"
 
 5. Empty the query text field
 click [Clear Query] button

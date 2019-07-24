@@ -1,6 +1,6 @@
 # Document Query Application (School individual assignment)
 
-runnable
+*runnable
 
 Querying with boolean model. Support querying multiple query terms and phases
 

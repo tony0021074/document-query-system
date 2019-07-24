@@ -1,4 +1,6 @@
-# Document Query Application (School individual assignment
+# Document Query Application (School individual assignment)
+
+runnable
 
 Querying with boolean model. Support querying multiple query terms and phases
 
